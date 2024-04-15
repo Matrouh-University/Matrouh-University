@@ -1,0 +1,146 @@
+{
+    "file":{
+     "Name0":"word",
+     "class0":"fa-regular fa-file-word",
+     "server0":"Microsoft  365",
+     "link0":"https://www.microsoft365.com/launch/Word/?auth=2",
+
+     "Name1":"Excel",
+     "class1":"fa-solid fa-table-cells-large",
+     "server1":"Microsoft  365",
+     "link1":"https://www.microsoft365.com/launch/Excel/?auth=2",
+
+     "Name2":"Power point",
+     "class2":"fa-regular fa-file-powerpoint",
+     "server2":"Microsoft  365",
+     "link2":"https://www.microsoft365.com/launch/PowerPoint/?auth=2",
+
+     "Name3":"Power point",
+     "class3":"fa-solid fa-arrow-up-right-from-square",
+     "server3":"canva",
+     "link3":"https://www.canva.com/design/DAGCCht4QUU/mDgO7wJBviiZqFV0es4H7A/edit",
+
+     "Name4":"Image to pdf",
+     "class4":"fa-solid fa-file-image",
+     "server4":"I love pdf",
+     "link4":"https://www.ilovepdf.com/ar/jpg_to_pdf",
+
+     "Name5":"pdf to image",
+     "class5":"fa-regular fa-file",
+     "server5":"I love pdf",
+     "link5":"https://www.ilovepdf.com/ar/pdf_to_jpg",
+
+     "Name6":"Exam",
+     "class6":"fa-solid fa-file-circle-question",
+     "server6":"Microsoft 365",
+     "link6":"https://forms.office.com/Pages/DesignPageV2.aspx?origin=shell"
+    },
+    "Ai":{
+        "Name0":"Chat GPT",
+        "class0":"fa-solid fa-fan",
+        "server0":"open Ai",
+        "link0":"https://chat.openai.com/",
+   
+        "Name1":"Chat Poe",
+        "class1":"fa-solid fa-comment",
+        "server1":"Poe.com",
+        "link1":"https://poe.com/",
+   
+        "Name2":"Bard",
+        "class2":"fa-solid fa-robot",
+        "server2":"google",
+        "link2":"https://gemini.google.com/app",
+   
+        "Name3":"popAI",
+        "class3":"fa-solid fa-comment-dots",
+        "server3":"popAi",
+        "link3":"https://www.popai.pro/",
+   
+        "Name4":"Adobe Firefly",
+        "class4":"fa-solid fa-panorama",
+        "server4":"Adobe",
+        "link4":"https://firefly.adobe.com/",
+   
+        "Name5":"GPTGO",
+        "class5":"fa-solid fa-book-open-reader",
+        "server5":"gptgp.ai",
+        "link5":"https://gptgo.ai/ar",
+   
+        "Name6":"الذكاء الاصطناعي بلعربي",
+        "class6":"fa-solid fa-database",
+        "server6":"arabyAI",
+        "link6":"https://www.araby.ai/"
+    },
+    "Cloud":{
+        "Name0":"GoogleDrive",
+        "class0":"fa-solid fa-box-tissue",
+        "server0":"google",
+        "link0":"https://drive.google.com/",
+   
+        "Name1":"OneDrive",
+        "class1":"fa-solid fa-cloud-arrow-up",
+        "server1":"Microsoft",
+        "link1":"https://onedrive.live.com/",
+   
+        "Name2":"MediaFire",
+        "class2":"fa-solid fa-box-archive",
+        "server2":"MediaFire",
+        "link2":"https://www.mediafire.com/",
+   
+        "Name3":"Dropbox",
+        "class3":"fa-solid fa-box-open",
+        "server3":"Dropbox",
+        "link3":"https://www.dropbox.com/",
+   
+        "Name4":"Pcloud",
+        "class4":"fa-solid fa-cloud",
+        "server4":"pCloud",
+        "link4":"https://www.pcloud.com/",
+   
+        "Name5":"Mage",
+        "class5":"fa-solid fa-cloud-bolt",
+        "server5":"mage.io",
+        "link5":"https://mega.io/ar/",
+   
+        "Name6":"jottacloud",
+        "class6":"fa-solid fa-lock",
+        "server6":"jottacloud",
+        "link6":"https://www.jottacloud.com/"
+    },
+    "games":{
+        "Name0":"",
+        "class0":"",
+        "server0":"  ",
+        "link0":" ",
+   
+        "Name1":"",
+        "class1":"",
+        "server1":"   ",
+        "link1":"",
+   
+        "Name2":" ",
+        "class2":" ",
+        "server2":"  ",
+        "link2":" ",
+   
+        "Name3":" ",
+        "class3":" ",
+        "server3":" ",
+        "link3":" ",
+   
+        "Name4":"  ",
+        "class4":" ",
+        "server4":"  ",
+        "link4":" ",
+   
+        "Name5":" ",
+        "class5":" ",
+        "server5":" ",
+        "link5":" ",
+   
+        "Name6":" ",
+        "class6":" ",
+        "server6":" ",
+        "link6":" "
+    }
+}
